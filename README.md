@@ -23,9 +23,4 @@ The "Helmet Detection and Number Plate Capturing" project aims to improve road s
 - CMake
 - Dlib
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/helmet-detection-and-number-plate-capturing.git
-   cd helmet-detection-and-number-plate-capturing
